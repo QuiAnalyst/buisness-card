@@ -1,0 +1,50 @@
+body {
+    margin: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    font-size: 20px;
+  
+   
+}
+
+.avatar {
+    width: 120px;
+    border-radius: 50%;
+    border: 2px solid black;
+}
+
+ 
+
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #ba3b46;
+    color: black;
+    border-bottom: 7px solid #9e2a2b;
+    box-shadow: 10px 10px 5px;
+
+}
+
+.card:hover{
+    background: #0096c7;
+    border-bottom: 7px solid #0077b6;
+}
+
+
+
+/*
+Stretch goals:
+Find other ways you can personalize 
+the design of your business card, e.g.:
+- change the border(s)
+- add border radius
+- shuffle the layout
+- shadows        🤯
+- hover effects  🤯🤯
+- animations     🤯🤯🤯
+*/
+
